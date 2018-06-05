@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  --font-body: 'Open Sans', sans-serif;
+  --font-hero: 'Overlock', cursive;
+  --col-font-main: #111;
+  --col-font-main-fade: #444;
+  --col-font-hl: #C52233;
+  --col-font-hl-fade: #961926;
+  --col-bg-main: #D0EEFF;
+  --col-bg-main-fade: #A0BBDE;
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: var(--font-body); }
+
+/*# sourceMappingURL=style.css.map */
